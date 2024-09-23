@@ -50,6 +50,8 @@
   ## Featured Projects 🎯
 - **Fit Graph Pro** 💪📊  
   Workout tracking app using **React**, **AWS Lambda**, **DynamoDB**, and **API Gateway**. Features data visualization and performance prediction with **linear regression**. Authentication with **JWT**.
+  [Live Preview](https://fitgraphpro.com)
+
 
 - **Raspberry Pi Environmental Health Tracker** 🌱🌡️  
   IoT app built with **Raspberry Pi**, **MongoDB**, **Python**, and **JavaScript**. Monitors temperature, humidity, and air quality with real-time data insights via **sensors (DHT22, BME280, SGP40)**.
