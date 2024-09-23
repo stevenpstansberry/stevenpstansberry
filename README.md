@@ -1,62 +1,52 @@
-## Hi there 👋
-
-
+# Hi there 👋
 
 ## 🛠️ Tech Stack and Tools
+
 - **Languages & Frameworks**:  
-  HTML, CSS, JavaScript, React, Redux, Node.js, Express.js, Python, AWS Lambda, DynamoDB, MongoDB, Raspberry Pi (IoT)
-  
+
+
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 - **Frontend**:  
-  React, Tailwind, Bootstrap, Material-UI, HTML/CSS
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+  ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 - **Backend & Databases**:  
-  Node.js, Express.js, MongoDB, DynamoDB
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 
 - **Cloud & DevOps**:  
-  AWS Lambda, API Gateway, S3, CloudFront, CloudWatch, SES, SNS, Docker
+  ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+  ![API Gateway](https://img.shields.io/badge/-API_Gateway-FF4F8B?style=flat&logo=amazon-api-gateway&logoColor=white)
+  ![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+  ![CloudFront](https://img.shields.io/badge/-CloudFront-FF9900?style=flat&logo=amazon-cloudfront&logoColor=white)
+  ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white)
+  ![SES](https://img.shields.io/badge/-SES-569A31?style=flat&logo=amazon-ses&logoColor=white)
+  ![SNS](https://img.shields.io/badge/-SNS-FF9900?style=flat&logo=amazon-sns&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 - **Tools**:  
-   Postman, Git, GitHub, Figma, Jest
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### [Fit Graph Pro](https://github.com/stevenpstansberry/fit-graph-pro)
-**Description**: Fit Graph Pro is a workout tracking web application built with React and AWS cloud services. It allows users to log workouts, visualize progress through interactive graphs, and track muscle activity using a body heatmap. The app predicts future performance using a linear regression model based on workout history, and the back-end is powered by AWS Lambda, DynamoDB, and API Gateway. User authentication is handled securely with JWT.
-
-**Tech Stack**:  
-React, Lambda, API Gateway, Node.js, DynamoDB, S3, CloudFront, CloudWatch, SES, SNS, Jest, Material-UI, HTML/CSS
-
-**Links**:  
-[GitHub Repo](https://github.com/stevenpstansberry/fit-graph-pro)
-
-
----
-
-### [Raspberry Pi Environmental Health Tracker and Dashboard](https://github.com/stevenpstansberry/raspberry-pi-environmental-health-tracker)
-**Description**: This web app uses an embedded Raspberry Pi system and sensors (DHT22, BME280, SGP40) to monitor temperature, humidity, air quality, and pressure. It collects and uploads data to MongoDB every 10 minutes, with real-time and historical insights displayed on an interactive dashboard. Metrics like dew point and heat index are also calculated.
-
-**Tech Stack**:  
-IoT, MongoDB, Embedded Systems, Raspberry Pi, Python, JavaScript, HTML/CSS
-
-**Links**:  
- [GitHub Repo](https://github.com/stevenpstansberry/raspberry-pi-environmental-health-tracker)
-
----
-
-### [Visionary RPS](https://github.com/stevenpstansberry/Visionary-RPS)
-**Description**: Visionary-RPS is a computer vision-based game that allows users to play Rock-Paper-Scissors against the computer using hand gestures. It leverages computer vision via the OpenCV library and MediaPipe for hand tracking, providing a seamless, gesture-based gameplay experience.
-
-**Tech Stack**:  
-OpenCV, MediaPipe, Python, Pillow, Tkinter
-
-**Links**:  
-[GitHub Repo](https://github.com/stevenpstansberry/Visionary-RPS)
-
-
-
----
 
 <!--
 **stevenpstansberry/stevenpstansberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
