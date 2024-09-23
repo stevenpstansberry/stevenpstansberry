@@ -47,7 +47,7 @@
   ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-  ## Projects 🎯
+  ## Featured Projects 🎯
 - **Fit Graph Pro** 💪📊  
   Workout tracking app using **React**, **AWS Lambda**, **DynamoDB**, and **API Gateway**. Features data visualization and performance prediction with **linear regression**. Authentication with **JWT**.
 
@@ -57,6 +57,13 @@
 - **Visionary RPS** ✋✂️🖥️  
   Gesture-based Rock-Paper-Scissors game using **OpenCV**, **MediaPipe**, and **Python**. Hand tracking and gesture recognition enable interaction in real-time.
 
+## Projects I'm Working On Now 🚧
+
+- **Aquamind.ai (In Progress)**   🌊🐠💡
+  An AI-powered aquarium management app built with **React**, **Node.js**, and **GPT-4**. Users can manage aquariums, stock fish/plants, log data, and get personalized advice via GPT based on tank details (e.g., "What fish can I add to my current setup?").
+
+- **The Mentor App (In Progress)**  🎓📅🤖
+  An educational assistant app leveraging **GPT-4** and **Canvas API** integration. It helps students manage assignments by syncing tasks to their calendar and breaking them down. GPT assumes the role of a mentor, offering personalized guidance based on the student's schedule.
 
 
 
