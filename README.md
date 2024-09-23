@@ -47,6 +47,18 @@
   ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+  ## Projects 🎯
+- **Fit Graph Pro** 💪📊  
+  Workout tracking app using **React**, **AWS Lambda**, **DynamoDB**, and **API Gateway**. Features data visualization and performance prediction with **linear regression**. Authentication with **JWT**.
+
+- **Raspberry Pi Environmental Health Tracker** 🌱🌡️  
+  IoT app built with **Raspberry Pi**, **MongoDB**, **Python**, and **JavaScript**. Monitors temperature, humidity, and air quality with real-time data insights via **sensors (DHT22, BME280, SGP40)**.
+
+- **Visionary RPS** ✋✂️🖥️  
+  Gesture-based Rock-Paper-Scissors game using **OpenCV**, **MediaPipe**, and **Python**. Hand tracking and gesture recognition enable interaction in real-time.
+
+
+
 
 <!--
 **stevenpstansberry/stevenpstansberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
