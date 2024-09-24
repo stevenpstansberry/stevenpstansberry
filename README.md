@@ -77,6 +77,16 @@ My experience spans across modern frontend frameworks like React, robust backend
 - **The Mentor App (In Progress)**  🎓📅🤖
   An educational assistant app leveraging **GPT-4** and **Canvas API** integration. It helps students manage assignments by syncing tasks to their calendar and breaking them down. GPT assumes the role of a mentor, offering personalized guidance based on the student's schedule.
 
+## Certifications 🎓
+
+![AWS Certified Developer – Associate](./badges/dva.png)
+![AWS Certified Cloud Practitioner](./badges/ccp.png)
+
+
+
+
+
+You can view all my AWS certifications on [Credly](https://www.credly.com/users/steven-stansberry)
 
 
 <!--
