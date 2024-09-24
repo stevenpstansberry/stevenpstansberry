@@ -58,20 +58,22 @@ My experience spans across modern frontend frameworks like React, robust backend
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
   ## Featured Projects 🎯
-- **Fit Graph Pro** 💪📊  
+- **Fit Graph Pro** 💪📊 [Code](https://github.com/stevenpstansberry/fit-graph-pro)
+  
   Workout tracking app using **React**, **AWS Lambda**, **DynamoDB**, and **API Gateway**. Features data visualization and performance prediction with **linear regression**. Authentication with **JWT**.
-  [Live Preview](https://fitgraphpro.com)
+  [Live Demo](https://fitgraphpro.com)
 
 
-- **Raspberry Pi Environmental Health Tracker** 🌱🌡️  
+- **Raspberry Pi Environmental Health Tracker** 🌱🌡️  [Code](https://github.com/stevenpstansberry/raspberry-pi-environmental-health-tracker)
+  
   IoT app built with **Raspberry Pi**, **MongoDB**, **Python**, and **JavaScript**. Monitors temperature, humidity, and air quality with real-time data insights via **sensors (DHT22, BME280, SGP40)**.
 
-- **Visionary RPS** ✋✂️🖥️  
+- **Visionary RPS** ✋✂️🖥️  [Code](https://github.com/stevenpstansberry/Visionary-RPS)
   Gesture-based Rock-Paper-Scissors game using **OpenCV**, **MediaPipe**, and **Python**. Hand tracking and gesture recognition enable interaction in real-time.
 
 ## Projects I'm Working On Now 🚧
 
-- **Aquamind.ai (In Progress)**   🌊🐠💡
+- **Aquamind.ai (In Progress)**   🌊🐠💡 [Code](https://github.com/stevenpstansberry/Visionary-RPS)
   An AI-powered aquarium management app built with **React**, **Node.js**, and **GPT-4**. Users can manage aquariums, stock fish/plants, log data, and get personalized advice via GPT based on tank details (e.g., "What fish can I add to my current setup?").
 
 - **The Mentor App (In Progress)**  🎓📅🤖
