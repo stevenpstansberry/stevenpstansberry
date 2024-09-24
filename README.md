@@ -83,8 +83,8 @@ An educational assistant app leveraging **GPT-4** and **Canvas API** integration
 
 ## Certifications 🎓
 
-![AWS Certified Developer – Associate](./badges/dva.png)
-![AWS Certified Cloud Practitioner](./badges/ccp.png)
+[![AWS Certified Developer – Associate](./badges/dva.png)](https://www.credly.com/badges/eb2e5d53-047b-4307-bb0d-b1f6a5f92ba1)
+[![AWS Certified Cloud Practitioner](./badges/ccp.png)](https://www.credly.com/badges/c4f40c6a-2e83-4e49-a4ec-992511d913bb)
 
 
 
