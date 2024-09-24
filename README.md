@@ -73,11 +73,13 @@ My experience spans across modern frontend frameworks like React, robust backend
 
 ## Projects I'm Working On Now 🚧
 
-- **Aquamind.ai (In Progress)**   🌊🐠💡 [Code](https://github.com/stevenpstansberry/Visionary-RPS)
-  An AI-powered aquarium management app built with **React**, **Node.js**, and **GPT-4**. Users can manage aquariums, stock fish/plants, log data, and get personalized advice via GPT based on tank details (e.g., "What fish can I add to my current setup?").
+- **Aquamind.ai (In Progress)**   🌊🐠💡
+
+An AI-powered aquarium management app built with **React**, **Node.js**, and **GPT-4**. Users can manage aquariums, stock fish/plants, log data, and get personalized advice via GPT based on tank details (e.g., "What fish can I add to my current setup?").
 
 - **The Mentor App (In Progress)**  🎓📅🤖
-  An educational assistant app leveraging **GPT-4** and **Canvas API** integration. It helps students manage assignments by syncing tasks to their calendar and breaking them down. GPT assumes the role of a mentor, offering personalized guidance based on the student's schedule.
+
+An educational assistant app leveraging **GPT-4** and **Canvas API** integration. It helps students manage assignments by syncing tasks to their calendar and breaking them down. GPT assumes the role of a mentor, offering personalized guidance based on the student's schedule.
 
 ## Certifications 🎓
 
