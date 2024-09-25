@@ -11,11 +11,9 @@ My experience spans across modern frontend frameworks like React, robust backend
 - **Languages & Frameworks**:
    
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Amazon EKS](https://img.shields.io/badge/-Amazon_EKS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)   
-  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -57,7 +55,8 @@ My experience spans across modern frontend frameworks like React, robust backend
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-  ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)  
+  ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)  
 
@@ -73,7 +72,8 @@ My experience spans across modern frontend frameworks like React, robust backend
   IoT app built with **Raspberry Pi**, **MongoDB**, **Python**, and **JavaScript**. Monitors temperature, humidity, and air quality with real-time data insights via **sensors (DHT22, BME280, SGP40)**.
 
 - **Visionary RPS** ✋✂️🖥️  [Code](https://github.com/stevenpstansberry/Visionary-RPS)
-  Gesture-based Rock-Paper-Scissors game using **OpenCV**, **MediaPipe**, and **Python**. Hand tracking and gesture recognition enable interaction in real-time.
+
+   Gesture-based Rock-Paper-Scissors game using **OpenCV**, **MediaPipe**, and **Python**. Hand tracking and gesture recognition enable interaction in real-time.
 
 ## Projects I'm Working On Now 🚧
 
