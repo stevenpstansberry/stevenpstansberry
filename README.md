@@ -75,7 +75,7 @@ My experience spans across modern frontend frameworks like React, robust backend
 
 - **Aquamind.ai (In Progress)**   🌊🐠💡
 
-An AI-powered aquarium management app built with **React**, **Node.js**, and **GPT-4**. Users can manage aquariums, stock fish/plants, log data, and get personalized advice via GPT based on tank details (e.g., "What fish can I add to my current setup?").
+an AI-powered aquarium management app built with React, Go microservices, and GPT-4, running on a scalable Kubernetes and AWS infrastructure. Users can manage aquariums, log water data, and track fish and plants. GPT-4 provides personalized advice based on tank details, answering questions like "What fish can I add to my current setup?" Real-time monitoring is powered by Prometheus and Grafana, with data stored securely in PostgreSQL for optimal performance.
 
 - **The Mentor App (In Progress)**  🎓📅🤖
 
