@@ -1,8 +1,6 @@
 # Hi there 👋
 
-I'm an aspiring software developer with a passion for creating innovative, real-world applications that leverage both cutting-edge technology and a strong foundation in cloud computing and AI. With a focus on full-stack development, I aim to build scalable, data-driven solutions that enhance user experience and solve practical problems.
-
-My experience spans across modern frontend frameworks like React, robust backend architectures using Node.js and Express.js, and cloud infrastructure with AWS Lambda, API Gateway, and DynamoDB. I’ve developed applications in diverse domains, from workout tracking platforms to environmental health monitoring, and even AI-driven systems for aquarium management and education.
+I am an aspiring software engineer with a passion for creating innovative, real-world applications that leverage cutting-edge technology and a strong foundation in cloud computing and AI. My focus is on full-stack development using Go for building scalable, high-performance backend systems, PostgreSQL for robust data management, and Docker for containerization to streamline development and deployment. I am also proficient with React for creating modern, responsive frontend interfaces, and Node.js and Express.js for building flexible and efficient APIs. My cloud expertise includes orchestrating infrastructure with AWS EKS, AWS Lambda, and API Gateway, ensuring that applications are scalable, resilient, and secure. I also work with DynamoDB for managing large-scale, distributed databases. My goal is to build data-driven solutions that enhance user experience and solve practical problems, with a focus on modern cloud, DevOps, and AI integration.
 
 
 
