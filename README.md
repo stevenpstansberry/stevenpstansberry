@@ -61,7 +61,7 @@ I am an aspiring software engineer with a passion for creating innovative, real-
   ## Featured Projects 🎯
 - **Fit Graph Pro** 💪📊 [Code](https://github.com/stevenpstansberry/fit-graph-pro)
   
-  Workout tracking app using **React**, **AWS Lambda**, **DynamoDB**, and **API Gateway**. Features data visualization and performance prediction with **linear regression**. Authentication with **JWT**.
+  Fully Featued, fully deployed on a CI/CD pipeline Workout tracking app using **React**, **Jest**, **AWS Lambda**, **DynamoDB**, **API Gateway**, and **AWS CodePipeline** . Features data visualization and performance prediction with **linear regression**. Authentication with **JWT**.
   [Live Demo](https://fitgraphpro.com)
 
 
