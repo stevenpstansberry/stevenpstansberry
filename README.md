@@ -59,8 +59,15 @@ I am an aspiring software engineer with a passion for creating innovative, real-
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)  
 
   ## Featured Projects 🎯
-- **Fit Graph Pro** 💪📊 [Code](https://github.com/stevenpstansberry/fit-graph-pro)
+
+- **Aquamind**   🌊🐠💡 [Code](https://github.com/stevenpstansberry/AquaMind-AI)
+
+  An AI-powered aquarium management app built with React, Go microservices, and GPT-4, running on a scalable Kubernetes and AWS infrastructure. Users can manage aquariums, log water data, and track fish and plants. GPT-4 provides personalized advice based on tank details, answering questions like "What fish can I add to my current setup?" Database powered by Postgres.
+  [Live Demo](https://www.aquamind.fish)
+
   
+- **Fit Graph Pro** 💪📊 [Code](https://github.com/stevenpstansberry/fit-graph-pro)
+
   Fully Featued, fully deployed on a CI/CD pipeline Workout tracking app using **React**, **Jest**, **AWS Lambda**, **DynamoDB**, **API Gateway**, and **AWS CodePipeline** . Features data visualization and performance prediction with **linear regression**. Authentication with **JWT**.
   [Live Demo](https://fitgraphpro.com)
 
@@ -75,9 +82,7 @@ I am an aspiring software engineer with a passion for creating innovative, real-
 
 ## Projects I'm Working On Now 🚧
 
-- **Aquamind.ai (In Progress)**   🌊🐠💡
 
-An AI-powered aquarium management app built with React, Go microservices, and GPT-4, running on a scalable Kubernetes and AWS infrastructure. Users can manage aquariums, log water data, and track fish and plants. GPT-4 provides personalized advice based on tank details, answering questions like "What fish can I add to my current setup?" Real-time monitoring is powered by Prometheus and Grafana, with data stored securely in PostgreSQL for optimal performance.
 
 - **The Mentor App (In Progress)**  🎓📅🤖
 
