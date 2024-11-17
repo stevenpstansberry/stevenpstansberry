@@ -65,6 +65,11 @@ I am an aspiring software engineer with a passion for creating innovative, real-
   An AI-powered aquarium management app built with React, Go microservices, and GPT-4, running on a scalable Kubernetes and AWS infrastructure. Users can manage aquariums, log water data, and track fish and plants. GPT-4 provides personalized advice based on tank details, answering questions like "What fish can I add to my current setup?" Database powered by Postgres.
   [Live Demo](https://www.aquamind.fish)
 
+- **HelixStream**   🧬📊☁️ [Code](https://github.com/stevenpstansberry/HelixStream)
+
+  HelixStream is a flexible bioinformatics pipeline designed to analyze viral evolution, focusing on SARS-CoV-2 variants like Omicron, by tracking mutations, calculating evolutionary metrics, and visualizing data in real-time. It integrates tools like Python, Biopython, AWS, and React to provide seamless data ingestion, processing, and an interactive dashboard for researchers and bioinformatics enthusiasts.
+  [Live Demo](https://www.helixstream-demo.com/)
+
   
 - **Fit Graph Pro** 💪📊 [Code](https://github.com/stevenpstansberry/fit-graph-pro)
 
