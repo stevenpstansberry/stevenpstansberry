@@ -70,6 +70,10 @@ I am an aspiring software engineer with a passion for creating innovative, real-
   HelixStream is a flexible bioinformatics pipeline designed to analyze viral evolution, focusing on SARS-CoV-2 variants like Omicron, by tracking mutations, calculating evolutionary metrics, and visualizing data in real-time. It integrates tools like Python, Biopython, AWS, and React to provide seamless data ingestion, processing, and an interactive dashboard for researchers and bioinformatics enthusiasts.
   [Live Demo](https://www.helixstream-demo.com/)
 
+- **IoT Health Sync** 🏥📡🔒  [Code](https://github.com/stevenpstansberry/iot-health-sync)
+
+  This project focuses on designing and deploying a scalable, secure IoT system for real-time monitoring of patient vitals such as heart rate, oxygen saturation, and temperature. The system incorporates Kafka for data ingestion, Redis for low-latency storage, AWS Lambda and EC2 for compute orchestration, Amazon S3 for secure data archiving, React.js for real-time dashboards, and Linux-based tools for simulation and system monitoring. It adheres to FHIR/HIPAA standards for healthcare interoperability and ensures robust security with AES-256 encryption and SSL/TLS protocols.
+
   
 - **Fit Graph Pro** 💪📊 [Code](https://github.com/stevenpstansberry/fit-graph-pro)
 
@@ -81,9 +85,7 @@ I am an aspiring software engineer with a passion for creating innovative, real-
   
   IoT app built with **Raspberry Pi**, **MongoDB**, **Python**, and **JavaScript**. Monitors temperature, humidity, and air quality with real-time data insights via **sensors (DHT22, BME280, SGP40)**.
 
-- **Visionary RPS** ✋✂️🖥️  [Code](https://github.com/stevenpstansberry/Visionary-RPS)
 
-   Gesture-based Rock-Paper-Scissors game using **OpenCV**, **MediaPipe**, and **Python**. Hand tracking and gesture recognition enable interaction in real-time.
 
 ## Projects I'm Working On Now 🚧
 
