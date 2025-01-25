@@ -49,7 +49,8 @@ I am an aspiring software engineer with a passion for creating innovative, real-
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)  
 
-  ## Featured Projects 🎯
+
+## Featured Projects 🎯
 
 
 
@@ -82,11 +83,13 @@ IoT Health Sync centers on building a scalable, secure data pipeline for process
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
----
 
   
 
 HelixStream is a scalable bioinformatics pipeline designed for analyzing viral evolution, with a focus on secure data handling and efficient workflows. It utilizes AWS S3 for storing raw and processed genomic data, IAM roles for precise access control, and Python tools like Biopython for mutation tracking and evolutionary metric calculations. The pipeline supports seamless data ingestion, processing, and visualization, with an interactive React-based dashboard enabling real-time insights for researchers. This robust architecture ensures scalability and compliance, making it a powerful tool for bioinformatics workflows [Live Demo](https://www.helixstream-demo.com/)
+
+---
+
 
  **Aquamind**   🌊🐠💡 [Code](https://github.com/stevenpstansberry/AquaMind-AI)
 
@@ -98,14 +101,14 @@ HelixStream is a scalable bioinformatics pipeline designed for analyzing viral e
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
----
-
 
 
   An AI-powered aquarium management app built with React, Go microservices, and GPT-4, running on a scalable Kubernetes and AWS infrastructure. Users can manage aquariums, log water data, and track fish and plants. GPT-4 provides personalized advice based on tank details, answering questions like "What fish can I add to my current setup?" Database powered by Postgres. Currently working on implementing automating water parameter intake via sensors (DS18B20 for water and Gravity: Analog pH Sensor/Meter Kit V2 for pH) handled by an Arduino microcontroller and uploaded to the cloud via AWS IoT
   [Live Demo](https://www.aquamind.fish)
+
+---
   
-   **Fit Graph Pro** 💪📊 [Code](https://github.com/stevenpstansberry/fit-graph-pro)
+**Fit Graph Pro** 💪📊 [Code](https://github.com/stevenpstansberry/fit-graph-pro)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
@@ -121,7 +124,7 @@ HelixStream is a scalable bioinformatics pipeline designed for analyzing viral e
 ---
 
   
-  - **Raspberry Pi Environmental Health Tracker** 🌱🌡️  [Code](https://github.com/stevenpstansberry/raspberry-pi-environmental-health-tracker)
+**Raspberry Pi Environmental Health Tracker** 🌱🌡️  [Code](https://github.com/stevenpstansberry/raspberry-pi-environmental-health-tracker)
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -137,8 +140,7 @@ HelixStream is a scalable bioinformatics pipeline designed for analyzing viral e
 ## Projects I'm Working On Now 🚧
 
 
-
-- **The Mentor App (In Progress)**  🎓📅🤖
+**The Mentor App (In Progress)**  🎓📅🤖
 
 An educational assistant app leveraging **GPT-4** and **Canvas API** integration. It helps students manage assignments by syncing tasks to their calendar and breaking them down. GPT assumes the role of a mentor, offering personalized guidance based on the student's schedule.
 
