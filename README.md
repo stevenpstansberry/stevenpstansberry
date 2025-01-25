@@ -2,49 +2,40 @@
 
 I am an aspiring software engineer with a passion for creating innovative, real-world applications that leverage cutting-edge technology and a strong foundation in cloud computing and AI. My focus is on full-stack development using Go for building scalable, high-performance backend systems, PostgreSQL for robust data management, and Docker for containerization to streamline development and deployment. I am also proficient with React for creating modern, responsive frontend interfaces, and Node.js and Express.js for building flexible and efficient APIs. My cloud expertise includes orchestrating infrastructure with AWS EKS, AWS Lambda, and API Gateway, ensuring that applications are scalable, resilient, and secure. I also work with DynamoDB for managing large-scale, distributed databases. My goal is to build data-driven solutions that enhance user experience and solve practical problems, with a focus on modern cloud, DevOps, and AI integration.
 
-
-
 ## 🛠️ Tech Stack and Tools
 
-- **Languages & Frameworks**:
+- **Languages**:
    
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 
-- **Frontend**:
+- **Frontend & Frameworks**:
 
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
   ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 
 
 - **Backend & Databases**:
   
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) 
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
-  ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
   
 
 - **Cloud & DevOps**:
-  
+
+  ![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+  ![IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat&logo=amazonaws&logoColor=white)
   ![Amazon EKS](https://img.shields.io/badge/-Amazon_EKS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?style=flat&logo=amazon-aws&logoColor=white)
   ![API Gateway](https://img.shields.io/badge/-API_Gateway-FF4F8B?style=flat&logo=amazon-api-gateway&logoColor=white)
-  ![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
   ![CloudFront](https://img.shields.io/badge/-CloudFront-FF9900?style=flat&logo=amazon-cloudfront&logoColor=white)
   ![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white)
 
@@ -60,28 +51,84 @@ I am an aspiring software engineer with a passion for creating innovative, real-
 
   ## Featured Projects 🎯
 
-- **Aquamind**   🌊🐠💡 [Code](https://github.com/stevenpstansberry/AquaMind-AI)
+
+
+
+ **IoT Health Sync** 🏥📡🔒  [Code](https://github.com/stevenpstansberry/iot-health-sync)
+  
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+  
+IoT Health Sync centers on building a scalable, secure data pipeline for processing IoT telemetry data in real-time, emphasizing robust data flow and security. It leverages Kafka for real-time data ingestion, Redis for low-latency caching and anomaly detection, and Amazon S3 for secure, long-term data archiving. Compute orchestration is handled using AWS Lambda and EC2, while IAM roles and VPCs ensure fine-grained access control and secure network isolation. The system adheres to FHIR/HIPAA standards for healthcare compliance and employs AES-256 encryption with SSL/TLS protocols to safeguard sensitive data.
+  
+---
+
+
+ **HelixStream**   🧬📊☁️ [Code](https://github.com/stevenpstansberry/HelixStream)
+
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Biopython](https://img.shields.io/badge/Biopython-0096D6?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+---
+
+  
+
+HelixStream is a scalable bioinformatics pipeline designed for analyzing viral evolution, with a focus on secure data handling and efficient workflows. It utilizes AWS S3 for storing raw and processed genomic data, IAM roles for precise access control, and Python tools like Biopython for mutation tracking and evolutionary metric calculations. The pipeline supports seamless data ingestion, processing, and visualization, with an interactive React-based dashboard enabling real-time insights for researchers. This robust architecture ensures scalability and compliance, making it a powerful tool for bioinformatics workflows [Live Demo](https://www.helixstream-demo.com/)
+
+ **Aquamind**   🌊🐠💡 [Code](https://github.com/stevenpstansberry/AquaMind-AI)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![AWS EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+
 
   An AI-powered aquarium management app built with React, Go microservices, and GPT-4, running on a scalable Kubernetes and AWS infrastructure. Users can manage aquariums, log water data, and track fish and plants. GPT-4 provides personalized advice based on tank details, answering questions like "What fish can I add to my current setup?" Database powered by Postgres. Currently working on implementing automating water parameter intake via sensors (DS18B20 for water and Gravity: Analog pH Sensor/Meter Kit V2 for pH) handled by an Arduino microcontroller and uploaded to the cloud via AWS IoT
   [Live Demo](https://www.aquamind.fish)
-
-- **HelixStream**   🧬📊☁️ [Code](https://github.com/stevenpstansberry/HelixStream)
-
-  HelixStream is a flexible bioinformatics pipeline designed to analyze viral evolution, focusing on SARS-CoV-2 variants like Omicron, by tracking mutations, calculating evolutionary metrics, and visualizing data in real-time. It integrates tools like Python, Biopython, AWS, and React to provide seamless data ingestion, processing, and an interactive dashboard for researchers and bioinformatics enthusiasts.
-  [Live Demo](https://www.helixstream-demo.com/)
-
-- **IoT Health Sync** 🏥📡🔒  [Code](https://github.com/stevenpstansberry/iot-health-sync)
-
-  This project focuses on designing and deploying a scalable, secure IoT system for real-time monitoring of patient vitals such as heart rate, oxygen saturation, and temperature. The system incorporates Kafka for data ingestion, Redis for low-latency storage, AWS Lambda and EC2 for compute orchestration, Amazon S3 for secure data archiving, React.js for real-time dashboards, and Linux-based tools for simulation and system monitoring. It adheres to FHIR/HIPAA standards for healthcare interoperability and ensures robust security with AES-256 encryption and SSL/TLS protocols.
-
   
-- **Fit Graph Pro** 💪📊 [Code](https://github.com/stevenpstansberry/fit-graph-pro)
+   **Fit Graph Pro** 💪📊 [Code](https://github.com/stevenpstansberry/fit-graph-pro)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-1A8CDB?style=flat&logo=amazonaws&logoColor=white)
+
 
   Fully Featued, fully deployed on a CI/CD pipeline Workout tracking app using **React**, **Jest**, **AWS Lambda**, **DynamoDB**, **API Gateway**, and **AWS CodePipeline** . Features data visualization and performance prediction with **linear regression**. Authentication with **JWT**.
   [Live Demo](https://fitgraphpro.com)
 
+---
 
-- **Raspberry Pi Environmental Health Tracker** 🌱🌡️  [Code](https://github.com/stevenpstansberry/raspberry-pi-environmental-health-tracker)
+  
+  - **Raspberry Pi Environmental Health Tracker** 🌱🌡️  [Code](https://github.com/stevenpstansberry/raspberry-pi-environmental-health-tracker)
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
   
   IoT app built with **Raspberry Pi**, **MongoDB**, **Python**, and **JavaScript**. Monitors temperature, humidity, and air quality with real-time data insights via **sensors (DHT22, BME280, SGP40)**.
 
@@ -99,8 +146,6 @@ An educational assistant app leveraging **GPT-4** and **Canvas API** integration
 
 [![AWS Certified Developer – Associate](./badges/dva.png)](https://www.credly.com/badges/eb2e5d53-047b-4307-bb0d-b1f6a5f92ba1)
 [![AWS Certified Cloud Practitioner](./badges/ccp.png)](https://www.credly.com/badges/c4f40c6a-2e83-4e49-a4ec-992511d913bb)
-
-
 
 
 
