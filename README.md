@@ -57,7 +57,7 @@ I am an aspiring software engineer with a passion for creating innovative, real-
 
  **IoT Health Sync** 🏥📡🔒  [Code](https://github.com/stevenpstansberry/iot-health-sync)
   
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
@@ -74,7 +74,7 @@ IoT Health Sync centers on building a scalable, secure data pipeline for process
 
  **HelixStream**   🧬📊☁️ [Code](https://github.com/stevenpstansberry/HelixStream)
 
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![IAM](https://img.shields.io/badge/AWS_IAM-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
