@@ -104,7 +104,6 @@ HelixStream is a scalable bioinformatics pipeline designed for analyzing viral e
 
 
   An AI-powered aquarium management app built with React, Go microservices, and GPT-4, running on a scalable Kubernetes and AWS infrastructure. Users can manage aquariums, log water data, and track fish and plants. GPT-4 provides personalized advice based on tank details, answering questions like "What fish can I add to my current setup?" Database powered by Postgres. Currently working on implementing automating water parameter intake via sensors (DS18B20 for water and Gravity: Analog pH Sensor/Meter Kit V2 for pH) handled by an Arduino microcontroller and uploaded to the cloud via AWS IoT
-  [Live Demo](https://www.aquamind.fish)
 
 ---
   
