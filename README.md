@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am an aspiring software engineer with a passion for creating innovative, real-world applications that leverage cutting-edge technology and a strong foundation in cloud computing and AI. My focus is on full-stack development using Go for building scalable, high-performance backend systems, PostgreSQL for robust data management, and Docker for containerization to streamline development and deployment. I am also proficient with React for creating modern, responsive frontend interfaces, and Node.js and Express.js for building flexible and efficient APIs. My cloud expertise includes orchestrating infrastructure with AWS EKS, AWS Lambda, and API Gateway, ensuring that applications are scalable, resilient, and secure. I also work with DynamoDB for managing large-scale, distributed databases. My goal is to build data-driven solutions that enhance user experience and solve practical problems, with a focus on modern cloud, DevOps, and AI integration.
+I am an aspiring software engineer with a passion for creating innovative, real-world applications that leverage cutting-edge technology and a strong foundation in cloud computing and AI. My focus is on data engineering and deploying ETL pipleines with cloud infrastructure. My passion project is Aquamind, a full-stack AI powered webapp that makes aquariums easier to get into for first time hobbyist, as well simplify multi-tank management for the hardcore aquarium owner! I am currently working on integrating Aquamind with a variety of IoT sensors for data acquisition and analysis to monitor for a sudden critical parameter exceeding a safe threshold, or even triggering an aquarium action, like low water level due to evaporation triggering an auto top off for the tank.
 
 ## 🛠️ Tech Stack and Tools
 
@@ -93,6 +93,9 @@ HelixStream is a scalable bioinformatics pipeline designed for analyzing viral e
 
  **Aquamind**   🌊🐠💡 [Code](https://github.com/stevenpstansberry/AquaMind-AI)
 
+💡Currently being updaed for sensor integration!
+
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -103,8 +106,7 @@ HelixStream is a scalable bioinformatics pipeline designed for analyzing viral e
 
 
 
-  An AI-powered aquarium management app built with React, Go microservices, and GPT-4, running on a scalable Kubernetes and AWS infrastructure. Users can manage aquariums, log water data, and track fish and plants. GPT-4 provides personalized advice based on tank details, answering questions like "What fish can I add to my current setup?" Database powered by Postgres. Currently working on implementing automating water parameter intake via sensors (DS18B20 for water and Gravity: Analog pH Sensor/Meter Kit V2 for pH) handled by an Arduino microcontroller and uploaded to the cloud via AWS IoT
-
+  An AI-powered aquarium management app built with React, Go microservices, and GPT-4, running on a scalable Kubernetes and AWS infrastructure. Users can manage aquariums, log water data, and track fish and plants. GPT-4 provides personalized advice based on tank details, answering questions like "What fish can I add to my current setup?" Database powered by Postgres. Currently working on implementing automating water parameter intake via sensors (DS18B20 for water and Gravity: Analog pH Sensor/Meter Kit V2 for pH) handled by an Arduino microcontroller and uploaded to the cloud via AWS IoT. 
 ---
   
 **Fit Graph Pro** 💪📊 [Code](https://github.com/stevenpstansberry/fit-graph-pro)
